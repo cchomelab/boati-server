@@ -1,1 +1,3 @@
 # boati-server
+
+## Dummy Mode
